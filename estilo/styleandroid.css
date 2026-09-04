@@ -9,6 +9,7 @@
 }
 
 :root {
+    /* Paleta de Cores */
     --cor00: #c5ebd6; /* #ebe5c5 */
     --cor01: #83e1ad;
     --cor02: #3ddc84;
@@ -16,6 +17,7 @@
     --cor04: #1a5c37;
     --cor05: #063d1e;
 
+    /* Fontes */
     --fonte-padrão: Arial, Verdana, Helvetica, sans-serif;
     --fonte-destaque: 'Bebas Neue', 'cursive';
     --fonte-android: 'Android', 'cursiva';
@@ -59,7 +61,7 @@ header > p {
     padding-right: 10px;
     padding-left: 10px;
     margin: auto;
-    padding-bottom: 50px;
+    margin-bottom: 20px;
     text-shadow: 2px 2px 0px #00000044;
 }
 
